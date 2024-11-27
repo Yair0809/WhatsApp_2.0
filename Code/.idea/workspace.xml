@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c2168320-effd-4f8f-907b-a5e1c32bae7e" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2mbhrDLpfm2RknRhBvgA4KkXwMG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ChatApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.WhatsAppApplication.executor": "Run",
+    "Java Scratch.Client 1.executor": "Run",
+    "Java Scratch.Client 2.executor": "Run",
+    "Java Scratch.Main.executor": "Run",
+    "Java Scratch.Server.executor": "Run",
+    "Java Scratch.main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Mamram/akaton 2025/Whatsapp 2.0",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.file-colors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Java Scratch.Client 2">
+    <configuration name="Client 1" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="akaton 2025" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Main.java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client 2" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="akaton 2025" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Main.java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Java Scratch">
+      <option name="MAIN_CLASS_NAME" value="Server" />
+      <module name="akaton 2025" />
+      <option name="SCRATCH_FILE_URL" value="file://$PROJECT_DIR$/Server.java" />
+      <shortenClasspath name="NONE" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Java Scratch.Client 1" />
+      <item itemvalue="Java Scratch.Client 2" />
+      <item itemvalue="Java Scratch.Server" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c2168320-effd-4f8f-907b-a5e1c32bae7e" name="Changes" comment="" />
+      <created>1727351380268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727351380268</updated>
+      <workItem from="1727351381318" duration="3066000" />
+      <workItem from="1728477501373" duration="938000" />
+      <workItem from="1728480350249" duration="180000" />
+      <workItem from="1728552123203" duration="8000" />
+      <workItem from="1728552170679" duration="1289000" />
+      <workItem from="1728560346720" duration="1302000" />
+      <workItem from="1728561678414" duration="2663000" />
+      <workItem from="1728564412335" duration="3786000" />
+      <workItem from="1728637588353" duration="2445000" />
+      <workItem from="1728753890050" duration="1785000" />
+      <workItem from="1728824495466" duration="1441000" />
+      <workItem from="1728829647563" duration="1509000" />
+      <workItem from="1728833957621" duration="1975000" />
+      <workItem from="1728836216536" duration="3365000" />
+      <workItem from="1729770916283" duration="10000" />
+      <workItem from="1729770952368" duration="348000" />
+      <workItem from="1729771932058" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
